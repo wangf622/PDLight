@@ -1,5 +1,5 @@
 # PDLight
 
-PDLight is a deep reinforcement learning agent for multi-intersection traffic signal control with PRCOL as the reward.
+PDLight (See the [paper](https://arxiv.org/abs/2009.13711) in arXiv) is a deep reinforcement learning agent for multi-intersection traffic signal control with PRCOL as the reward.
 
 The proposed PRCOL considers not only the number of vehicles on the incoming lane but also the remaining capacity of the outgoing lane. It shares the similar code structure with [CoLight](https://github.com/wingsweihua/colight).
